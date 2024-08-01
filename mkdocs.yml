@@ -1,4 +1,4 @@
-site_name: RE&CT
+site_name: RESP()NCE
 site_dir: site/
 docs_dir: docs/
 
@@ -9,9 +9,9 @@ theme:
     search_index_only: true
     titles_only: true
 
-repo_url: https://github.com/atc-project/atc-react
+repo_url: https://github.com/Starke427/atc-react
 edit_uri: blob/master/docs/
-google_analytics: ['UA-165240552-2', 'https://atc-project.github.io/atc-react/']
+#google_analytics: ['', 'https://starke427.github.io/atc-react/']
 
 plugins:
     - awesome-pages
@@ -23,8 +23,7 @@ plugins:
             - "thehive_templates"
 nav:
     - Introduction:
-        - RE&CT Framework (EN): index.md
-        - RE&CT Framework (RU): index_RU.md
+        - RESP()NCE Framework (EN): index.md
         - Response Stages: responsestages.md
     - Response Actions:
         - Preparation:
