@@ -1,6 +1,6 @@
 [Русская версия](README_RU.md)
 
-# RE&CT
+# RE&CT - TEST
 
 ![](docs/images/logo_v2.png)
 
